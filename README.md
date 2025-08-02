@@ -3,4 +3,4 @@
 
 方法来自https://www.bilibili.com/video/BV1RF411f7aA/
 
-我不是程序员，安全性自行分辨
+我不是程序员，有bug找我也没用，安全性自行分辨
